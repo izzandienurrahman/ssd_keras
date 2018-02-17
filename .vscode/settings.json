@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\helli\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "${env.SPARK_HOME}\\python",
+        "${env.SPARK_HOME}\\python\\pyspark"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": false,
+    "python.linting.enabled": false,
+    "python.linting.prospectorEnabled": true
+}
